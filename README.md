@@ -47,7 +47,7 @@ A full-featured community platform for emotional support and event management.
 **Features:** Group & 1v1 Chat, Event RSVP, Anonymous Sharing, and Authentication.
 
 
-#### 📦 [E-Commerce Platform ](https://github.com/MadanGowda-BH/ecommerce-app)
+#### 📦 [E-Commerce Platform ](https://github.com/MadanGowda-BH/clickNbuy-SpringBoot-Thymeleaf )
 Online store simulation with product catalog, cart, and payment module.  
 **Stack:** Spring Boot, MySQL, Reactk
 
