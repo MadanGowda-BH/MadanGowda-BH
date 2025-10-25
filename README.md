@@ -8,7 +8,7 @@ I love turning complex problems into elegant solutions with clean, efficient, an
 - 🌱 Learning & exploring: **Microservices, Spring Cloud, and AWS**
 - 💬 Ask me about: **Java, Spring Framework, REST APIs, and Full Stack Development**
 - ⚙️ Favorite Stack: `Java` | `Spring Boot` | `Hibernate` | `MySQL` | `React` | `Docker` | `AWS`
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:madan@gmaail.combh)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/madangowdabh) | [Email](mailto:madanbh5454@gmaail.combh)
 - ⚡ Fun fact: I love solving logic challenges & building real-world Java projects.
 
 ---
@@ -46,13 +46,14 @@ A full-featured community platform for emotional support and event management.
 **Tech Stack:** Java, Spring Boot, WebSocket, MySQL, HTML/CSS/JS, REST API  
 **Features:** Group & 1v1 Chat, Event RSVP, Anonymous Sharing, and Authentication.
 
+
+#### 📦 [E-Commerce Platform ](https://github.com/MadanGowda-BH/ecommerce-app)
+Online store simulation with product catalog, cart, and payment module.  
+**Stack:** Spring Boot, MySQL, Reactk
+
 #### 💼 [Employee Management System](https://github.com/MadanGowda-BH/employee-management)
 CRUD-based web app with authentication, role-based access, and REST API integration.  
 **Stack:** Spring Boot, Hibernate, MySQL, React
-
-#### 📦 [E-Commerce Platform (Mini Project)](https://github.com/MadanGowda-BH/ecommerce-app)
-Online store simulation with product catalog, cart, and payment module.  
-**Stack:** Spring Boot, MySQL, React
 
 ---
 
@@ -73,7 +74,7 @@ Online store simulation with product catalog, cart, and payment module.
 
 ### 💬 Let's Connect
 🌐 [Portfolio Website](https://your-portfolio-link.com)  
-📧 [Email](mailto:your.email@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/your-link)
+📧 [Email](mailto:madanbh5454@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/madangowdabh)
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
